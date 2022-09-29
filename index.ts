@@ -1,5 +1,5 @@
 function greeter(person: string) {
-  return `ello ${person}!`;
+  return `Hello ${person}!`;
 }
 
 const n = 'World';
