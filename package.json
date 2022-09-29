@@ -1,0 +1,24 @@
+{
+  "name": "testgeneral",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalezvictorjuan/TestGeneral.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalezvictorjuan/TestGeneral/issues"
+  },
+  "homepage": "https://github.com/gonzalezvictorjuan/TestGeneral#readme",
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
